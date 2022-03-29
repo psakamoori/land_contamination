@@ -1,0 +1,35 @@
+Train data:
+
+./SG/train/SG06_SinglePadStain
+./SG/train/SG04_LargeFootprint
+./SG/train/SG02_CreviceCorrosion
+./SG/train/SG08_CircleWithinPad
+./SG/train/SG05_IrregularWithinPad
+./SG/train/SG01_BrightFM
+./SG/train/SG07_TransientFM
+./SG/train/SG03_MultiSignature
+./SG/train/SG09_InnerPad
+
+Test Data:
+./SG/test/SG06_SinglePadStain
+./SG/test/SG04_LargeFootprint
+./SG/test/SG02_CreviceCorrosion
+./SG/test/SG08_CircleWithinPad
+./SG/test/SG05_IrregularWithinPad
+./SG/test/SG01_BrightFM
+./SG/test/SG07_TransientFM
+./SG/test/SG03_MultiSignature
+./SG/test/SG09_InnerPad
+
+Images:
+/SG/images
+./SG/images/SG06_SinglePadStain
+./SG/images/SG04_LargeFootprint
+./SG/images/SG02_CreviceCorrosion
+./SG/images/SG08_CircleWithinPad
+./SG/images/SG05_IrregularWithinPad
+./SG/images/SG01_BrightFM
+./SG/images/SG07_TransientFM
+./SG/images/SG03_MultiSignature
+./SG/images/SG09_InnerPad
+
